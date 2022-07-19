@@ -5,3 +5,7 @@ A study was conducted in order to investigate and document bacterial species fou
 The data was provided in a large json file. Data was parsed using javascript, and an html page displays the dashboard. The dashboard is comprised of a bubble, bar and gauge chart, created by plotly. The charts are dynamic, and different subject id numbers can be selected to display each subject's bacteria. D3 was used to help the code display different data based on user input. 
 
 This rendering of this code in a webpage format can be viewed by going to github settings, selecting "pages" under code and automation, and clicking on the link. 
+
+Here is a preview of the webpage displaying the first subject's data:
+
+![webpage preview](https://github.com/emariecovey/Belly_Button_Biodiversity/blob/main/webpage.png)
