@@ -139,15 +139,15 @@ function buildCharts(sample) {
                   { range: [6, 8], color: "yellowgreen" },
                   { range: [8, 10], color: "green" },
                 ]
-              },
-      title: "Scrubs per Week"
+              }
+      //title: "Scrubs per Week"
     }];
     
     // 5. Create the layout for the gauge chart.
     var gaugeLayout = { 
       width: 500,
       height: 400,
-      title : "<b>Belly Button Washing Frequency</b>", "titlefont": {
+      title : "<b>Belly Button Washing Frequency</b><br>Scrubs per Week</br>", "titlefont": {
         "size": 20
       }
     };
